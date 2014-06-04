@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="586f2038-1657-43cf-a350-92037b49246f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/my/CounterView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ButtonView.java" afterPath="$PROJECT_DIR$/src/main/java/ButtonView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/p1.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/p1.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PrimeEducation.iws" />
@@ -95,19 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.xhtml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="18" selection-start="621" selection-end="621" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="765">
+            <state line="39" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1090289" vertical-offset="12" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p1.xhtml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="p1.xhtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="31" selection-start="1400" selection-end="1400" vertical-scroll-proportion="1.1873727" vertical-offset="12" max-vertical-offset="782">
+            <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -117,11 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,12 +137,12 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/my/EditorBean.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/my/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/my/TableBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/ButtonView.java" />
         <option value="$PROJECT_DIR$/src/main/java/my/CounterView.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/p1.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
       </list>
     </option>
   </component>
@@ -951,7 +945,7 @@
       <workItem from="1401733502814" duration="3268000" />
       <workItem from="1401778683395" duration="1635000" />
       <workItem from="1401875941433" duration="593000" />
-      <workItem from="1401905362304" duration="3049000" />
+      <workItem from="1401905362304" duration="4556000" />
     </task>
     <task id="LOCAL-00001" summary="создана страница p1&#10;">
       <created>1401734966460</created>
@@ -965,18 +959,22 @@
       <created>1401736742501</created>
       <updated>1401736742501</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="создана страница p1&#10;">
+      <created>1401908450890</created>
+      <updated>1401908450890</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17303000" />
+    <option name="totallyTimeSpent" value="18810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="1" width="1278" height="980" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33941606" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22262774" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1265,27 +1263,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="621" selection-end="621" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="1400" selection-end="1400" vertical-scroll-proportion="1.1873727" vertical-offset="12" max-vertical-offset="782">
+        <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1090289" vertical-offset="12" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
