@@ -10,7 +10,7 @@ import javax.faces.event.ActionEvent;
 public class ButtonView {
 
     public void buttonAction(ActionEvent actionEvent) {
-        addMessage("Здравствуй , о дружелюбная форма жизни  пришедшая на мой  сайт !!!  !!!  ");
+        addMessage("Здравствуй , о дружелюбная форма жизни  пришедшая на мой  сайт !!!");
     }
 
     public void addMessage(String summary) {

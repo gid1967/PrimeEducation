@@ -15,19 +15,25 @@
         <p:layout style="min-width:10px;min-height:400px;">
             <p:layoutUnit position="west" resizable="true" size="100" minSize="40" maxSize="1200">
                 <p:commandLink id="ajax" update="growl" actionListener="#{buttonView.buttonAction}">
-                    <h:outputText value="Ajax Submit" />
+                    <h:outputText value="азазаззазаз" />
                 </p:commandLink>
             </p:layoutUnit>
 
             <p:layoutUnit position="center">
                 <p:commandLink id="nonAjax" actionListener="#{buttonView.buttonAction}" ajax="false">
-                    <h:outputText value="Non-Ajax Submit" />
+                    <h:outputText value="ОК" />
                 </p:commandLink>
             </p:layoutUnit>
             <p:button outcome="index" icon="ui-icon-star" title="Icon Only">
                 <f:param name="productId" value="30" />
             </p:button>
         </p:layout>
+
+
+
+
+            <h:outputText id="txt_count" value="#{counterView.number}" />
+            <p:poll interval="5" listener="#{counterView.increment}" update="txt_count" />
 
 
     </h:form>
