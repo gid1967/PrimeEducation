@@ -10,32 +10,11 @@
 <h:head>
 </h:head>
 <h:body>
-    <h:panelGrid columns="1" cellpadding="5">
+    Это главная страница , для перехода на втаростепенную нажмите на кнопку .
 
-        <p:commandButton value="showModalDialog" update="outLabel"/>
+    <p:button outcome="p1.xhtml" icon="ui-icon-star" title="Icon Only">
+        <f:param name="productId" value="30" />
+    </p:button>
 
-        <p:outputLabel value="#{editor.value}" id="outLabel"/>
-    </h:panelGrid>
-
-    <p:dialog id="basicDialog" header="Basic Dialog" widgetVar="dlg1">
-        <p:dataTable var="car" value="#{tableBean.carsSmall}">
-            <p:column headerText="Model">
-                <h:outputText value="#{car.model}" />
-            </p:column>
-
-            <p:column headerText="Year">
-                <h:outputText value="#{car.year}" />
-            </p:column>
-
-            <p:column headerText="Manufacturer">
-                <h:outputText value="#{car.manufacturer}" />
-            </p:column>
-
-            <p:column headerText="Color">
-                <h:outputText value="#{car.color}" />
-            </p:column>
-        </p:dataTable>
-    </p:dialog>
-
-
+</h:body>
 </html>

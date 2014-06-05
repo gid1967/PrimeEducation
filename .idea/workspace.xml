@@ -93,19 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.xhtml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1090289" vertical-offset="12" max-vertical-offset="782">
+            <state line="14" column="31" selection-start="533" selection-end="533" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p1.xhtml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="p1.xhtml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="782">
+            <state line="31" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.92960286" vertical-offset="12" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -114,7 +114,7 @@
       <file leaf-file-name="CounterView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -264,7 +264,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -400,6 +399,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -945,7 +945,9 @@
       <workItem from="1401733502814" duration="3268000" />
       <workItem from="1401778683395" duration="1635000" />
       <workItem from="1401875941433" duration="593000" />
-      <workItem from="1401905362304" duration="4556000" />
+      <workItem from="1401905362304" duration="4747000" />
+      <workItem from="1401963906057" duration="992000" />
+      <workItem from="1401994605307" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="создана страница p1&#10;">
       <created>1401734966460</created>
@@ -963,21 +965,25 @@
       <created>1401908450890</created>
       <updated>1401908450890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ничего нового">
+      <created>1401910088243</created>
+      <updated>1401910088243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18810000" />
+    <option name="totallyTimeSpent" value="21723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="1" width="1278" height="980" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22262774" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26277372" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -986,7 +992,7 @@
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25163934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1020,7 +1026,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="создана страница p1&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="создана страница p1&#10;" />
+    <MESSAGE value="ничего нового" />
+    <option name="LAST_COMMIT_MESSAGE" value="ничего нового" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1049,6 +1056,62 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ButtonView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1291" selection-end="1291" vertical-scroll-proportion="0.0" vertical-offset="283" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ButtonView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ButtonView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="89" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
@@ -1265,21 +1328,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/my/CounterView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="782">
+        <state line="18" column="16" selection-start="316" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1090289" vertical-offset="12" max-vertical-offset="782">
+        <state line="14" column="31" selection-start="533" selection-end="533" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/p1.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.92960286" vertical-offset="12" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
