@@ -8,6 +8,7 @@ public class Car {
     int randomYear;
     String randomManufacturer;
     String randomColor;
+
     public Car(String randomModel, int randomYear, String randomManufacturer, String randomColor) {
         model = randomModel;
         this.randomYear = randomYear;
